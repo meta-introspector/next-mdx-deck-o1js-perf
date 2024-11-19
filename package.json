@@ -23,11 +23,11 @@
     "yarn": "^1.22.22"
   },
   "devDependencies": {
-    "@types/react": "^17.0.16",
+    "@types/react": "^17.0.83",
     "babel-plugin-styled-components": "^1.12.0",
     "typescript": "^4.3.5"
   },
   "engines": {
-    "node": ">=21"
+    "node": ">=18"
   }
 }
