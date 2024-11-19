@@ -10,20 +10,22 @@
   },
   "dependencies": {
     "@mdx-js/loader": "^1.6.22",
+    "@mdx-js/react": "^3.1.0",
     "@netlify/plugin-nextjs": "^5.8.1",
-    "@next/mdx": "^11.0.1",
+    "@next/mdx": "^11.1.4",
+    "css": "^3.0.0",
     "framer-motion": "^4.1.17",
-    "next": "11.0.1",
-    "next-mdx-deck-update": "link:",
-    "react": "17.0.2",
-    "react-dom": "17.0.2",
+    "next": "15.0.4-canary.19",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "react-swipeable": "^6.1.2",
     "react-syntax-highlighter": "^15.4.4",
     "styled-components": "^5.2.3",
     "yarn": "^1.22.22"
   },
   "devDependencies": {
-    "@types/react": "^18.0.1",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
     "autoprefixer": "^10.4.20",
     "babel-plugin-styled-components": "^1.12.0",
     "typescript": "^4.9.5"
